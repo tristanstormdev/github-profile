@@ -24,7 +24,7 @@ I thrive on solving complex development challenges and ensuring projects are str
 | **Cloud & DevOps**| `Firebase`, `Git/GitHub`, `Containerisation` | Deployment, Version Control, Real-Time Data Management |
 | **AI/ML** | `Google Cloud Vertex AI (Lyria)`, `Google Cloud Vision` | Generative AI, Image Analysis, Prompt Engineering |
 
-### Badges (Illustrative Examples - Replace with actual image links if you prefer non-standard shields)
+### Badges
 
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
@@ -66,4 +66,5 @@ A creative web application that turns visual concepts (user drawings) into downl
 I'm always open to discussing new projects, technical challenges, and full-stack development. Feel free to connect!
 
 * **Email:** <a href="mailto:tristan@cirrusbridge.com">tristan@cirrusbridge.com"</a>
+
 * **LinkedIn:** `https://za.linkedin.com/in/tristan-storm`
